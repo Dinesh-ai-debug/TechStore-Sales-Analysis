@@ -1,3 +1,5 @@
-SELECT category, SUM(price) 
-FROM tech_store 
-GROUP BY category;
+-- Finding the total revenue for the TechStore to verify dashboard KPIs
+SELECT SUM(price) FROM tech_store;
+
+-- Grouping sales by category to identify top-performing departments
+SELECT category, SUM(price) FROM tech_store GROUP BY category;
