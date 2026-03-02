@@ -1,5 +1,6 @@
 # TechStore-Sales-Analysis
 "End-to-end sales analysis project using SQL for data querying and Power BI for executive dashboarding."
+I recommend focusing marketing efforts on the 'Accessories' category, as it currently only contributes 9% of total revenue. Increasing the average order value in this segment is key to hitting the $10,000 Super Goal.
 The Business Problem (The "Why")
 TechStore’s management lacked a centralized way to monitor daily sales performance against their monthly growth targets. They needed a solution that would allow them to identify top-performing products instantly and see if the business was on track to hit its $10,000 "Super Goal."
 The Technical Stack (The "How")
